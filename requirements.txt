@@ -1,68 +1,8 @@
-appnope==0.1.3
-asttokens==2.2.1
-backcall==0.2.0
-Bottleneck @ file:///Users/cbousseau/work/recipes/ci_py311/bottleneck_1677925122241/work
-category-encoders @ file:///home/conda/feedstock_root/build_artifacts/category_encoders_1692127023641/work/dist
-certifi==2023.7.22
-charset-normalizer==3.1.0
-comm==0.1.3
-contourpy==1.0.7
-cycler==0.11.0
-debugpy==1.6.6
-decorator==5.1.1
-docopt==0.6.2
-executing==1.2.0
-fontawesomefree==6.3.0
-fonttools==4.39.2
-idna==3.4
-imbalanced-learn==0.10.1
+imbalanced_learn==0.10.1
 imblearn==0.0
-importlib-resources @ file:///home/conda/feedstock_root/build_artifacts/importlib_resources_1691408075105/work
-ipykernel==6.22.0
-ipython==8.11.0
-jedi==0.18.2
-joblib==1.2.0
-jupyter_client==8.1.0
-jupyter_core==5.3.0
-kiwisolver==1.4.4
 matplotlib==3.7.1
-matplotlib-inline==0.1.6
-nest-asyncio==1.5.6
-numexpr @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_76yyu1p9jk/croot/numexpr_1683221830860/work
-numpy @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a19y8c22jc/croot/numpy_and_numpy_base_1691091616945/work
-packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1681337016113/work
-pandas @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_b9nb2vqtpu/croot/pandas_1692289331806/work
-parso==0.8.3
-patsy @ file:///home/conda/feedstock_root/build_artifacts/patsy_1665356157073/work
-pexpect==4.8.0
-pickleshare==0.7.5
-Pillow==9.4.0
-pipreqs==0.4.12
-platformdirs==3.1.1
-prompt-toolkit==3.0.38
-psutil==5.9.4
-ptyprocess==0.7.0
-pure-eval==0.2.2
-Pygments==2.14.0
-pyparsing==3.0.9
-python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
-pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1693930252784/work
-pywaffle==1.1.0
-pyzmq==25.0.2
-requests==2.28.2
-scikit-learn @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_b53p48pwor/croot/scikit-learn_1684954746053/work
-scipy==1.10.1
-seaborn==0.13.0
-six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
-sklearn==0.0.post1
-stack-data==0.6.2
-statsmodels @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_d39rlzrllo/croot/statsmodels_1689937269798/work
-threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1689261241048/work
-tornado==6.2
-traitlets==5.9.0
-tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1680081134351/work
-urllib3==1.26.15
-wcwidth==0.2.6
+numpy==1.24.2
+pandas==1.5.3
+scikit_learn==1.4.1.post1
+seaborn==0.13.2
 xgboost==2.0.3
-yarg==0.1.9
-zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1689374466814/work
